@@ -1,6 +1,8 @@
 # Leveraged Yield Farm using Flash Loans
 
 Make use of a Flash loan from Balancer to earn more from Moonwell on Ethereum's layer 2 BASE. 
+DAPP intro to Base Trading Bot. Make sure you reference Balancer site and add .env file with Alchemy 
+connection. 
 
 ## Technology Stack & Tools
 
